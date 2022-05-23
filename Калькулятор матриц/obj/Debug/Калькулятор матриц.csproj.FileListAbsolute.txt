@@ -1,0 +1,11 @@
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\bin\Debug\Калькулятор матриц.exe.config
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\bin\Debug\Калькулятор матриц.exe
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\bin\Debug\Калькулятор матриц.pdb
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.csproj.AssemblyReference.cache
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.csproj.SuggestedBindingRedirects.cache
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор_матриц.Form1.resources
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор_матриц.Properties.Resources.resources
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.csproj.GenerateResource.cache
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.csproj.CoreCompileInputs.cache
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.exe
+C:\Users\zzsan\Desktop\огу\Калькулятор матриц\Калькулятор матриц\obj\Debug\Калькулятор матриц.pdb
